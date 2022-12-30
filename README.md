@@ -1,10 +1,9 @@
-### Olá 👋, me chamo Thais
+### Falaaa,tudo bem? 👋, seja bem vindo (a) ao meu perfil!
 
 
-- 🔭 Atualmente estou iniciando minha carreira como Analista de dados, formada em Banco de Dados
+- 🔭 Atualmente recem formada em Banco de Dados, iniciando minha carreira na área.
 - 🌱 Atualmente estou aprnedndo: Python e Power BI
 - 💬 Me pergunte sobre: Microsoft SQL Server, Power BI e Python
-- 📫 Como me achar: https://www.linkedin.com/in/thaisferreiras/
 
 <div align="center">
   <a href="https://github.com/thaisferreiras">
